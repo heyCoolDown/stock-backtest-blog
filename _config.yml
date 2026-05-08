@@ -1,0 +1,11 @@
+title: 피보나치 백테스트 연구일지
+description: 코스피200 퀀트 전략 백테스트 연구 기록
+theme: minima
+lang: ko
+
+minima:
+  date_format: "%Y년 %m월 %d일"
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
